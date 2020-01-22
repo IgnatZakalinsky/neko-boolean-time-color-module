@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/neko-boolean-time-color-module/static/css/main.2fb0856e.chunk.css",
+    "main.js": "/neko-boolean-time-color-module/static/js/main.b3918099.chunk.js",
+    "main.js.map": "/neko-boolean-time-color-module/static/js/main.b3918099.chunk.js.map",
+    "runtime-main.js": "/neko-boolean-time-color-module/static/js/runtime-main.cdaec5e4.js",
+    "runtime-main.js.map": "/neko-boolean-time-color-module/static/js/runtime-main.cdaec5e4.js.map",
+    "static/css/2.826c19ff.chunk.css": "/neko-boolean-time-color-module/static/css/2.826c19ff.chunk.css",
+    "static/js/2.9438bdcc.chunk.js": "/neko-boolean-time-color-module/static/js/2.9438bdcc.chunk.js",
+    "static/js/2.9438bdcc.chunk.js.map": "/neko-boolean-time-color-module/static/js/2.9438bdcc.chunk.js.map",
+    "index.html": "/neko-boolean-time-color-module/index.html",
+    "precache-manifest.0c56f94b8f36f6121c2f9c04c23849e6.js": "/neko-boolean-time-color-module/precache-manifest.0c56f94b8f36f6121c2f9c04c23849e6.js",
+    "service-worker.js": "/neko-boolean-time-color-module/service-worker.js",
+    "static/css/2.826c19ff.chunk.css.map": "/neko-boolean-time-color-module/static/css/2.826c19ff.chunk.css.map",
+    "static/css/main.2fb0856e.chunk.css.map": "/neko-boolean-time-color-module/static/css/main.2fb0856e.chunk.css.map",
+    "static/js/2.9438bdcc.chunk.js.LICENSE": "/neko-boolean-time-color-module/static/js/2.9438bdcc.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cdaec5e4.js",
+    "static/css/2.826c19ff.chunk.css",
+    "static/js/2.9438bdcc.chunk.js",
+    "static/css/main.2fb0856e.chunk.css",
+    "static/js/main.b3918099.chunk.js"
+  ]
+}
